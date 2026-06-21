@@ -1,0 +1,6 @@
+name = "user-name123"
+type = "pages"
+
+[build]
+command = ""
+publish = "."
